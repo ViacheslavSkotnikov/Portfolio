@@ -123,6 +123,10 @@ h3 {
   h2.lg-heading,
   h3.lg-heading {
     font-size: 3rem; }
+  h1.contact-heading,
+  h2.contact-heading,
+  h3.contact-heading {
+    font-size: 2.3rem; }
   h1.sm-heading,
   h2.sm-heading,
   h3.sm-heading {
@@ -208,9 +212,9 @@ main {
   align-items: center;
   margin-top: 1rem; }
   .boxes div {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     border: 3px #fff solid;
-    padding: 1.5rem 1rem;
+    padding: 20px 5px;
     margin-bottom: 3rem;
     transition: all 0.5s ease-out; }
     .boxes div:hover {
