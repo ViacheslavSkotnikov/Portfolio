@@ -293,3 +293,13 @@ main {
     margin-top: 10vh; }
   .projects {
     grid-template-columns: 1fr; } }
+
+.menu .nav-link {
+  padding: 0 5px;
+  margin-top: 0; }
+
+.menu-branding {
+  height: 40vh; }
+
+.menu-nav {
+  height: 60vh; }
