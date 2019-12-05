@@ -46,12 +46,6 @@ $background-opacity: 0.8;
     padding: 0 5px;
     margin-top: 0;
   }
-  .menu-branding {
-    height: 40vh;
-  }
-  .menu-nav {
-    height: 60vh;
-  }
 }
 @mixin mediaMd {
   @media screen and (max-width: 768px) {
