@@ -47,6 +47,15 @@ $background-opacity: 0.8;
     margin-top: 0;
   }
 }
+@mixin mediaSmLandscape {
+  @media screen and (max-height: 400px) {
+    @content;
+  }
+  .menu .nav-link {
+    padding: 0 5px;
+    margin-top: 0;
+  }
+}
 @mixin mediaMd {
   @media screen and (max-width: 768px) {
     @content;
