@@ -68,9 +68,9 @@
   .menu .nav-link {
     display: inline-block;
     position: relative;
-    font-size: 30px;
+    font-size: 35px;
     text-transform: uppercase;
-    padding: 1rem 0;
+    padding: 3rem 0;
     font-weight: 500;
     color: #000;
     text-decoration: none;
