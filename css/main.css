@@ -114,6 +114,9 @@ body {
       z-index: -1;
       background: rgba(255, 255, 255, 0.8); }
 
+.tag {
+  color: black; }
+
 h1,
 h2,
 h3 {
