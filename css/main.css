@@ -299,7 +299,10 @@ main {
   .projects {
     grid-template-columns: 1fr; }
   .bio {
-    font-size: 1rem; } }
+    font-size: 1rem; }
+  .about-info li {
+    align-items: flex-start;
+    text-align: left; } }
 
 .menu .nav-link {
   padding: 0 5px;
