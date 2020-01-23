@@ -115,7 +115,7 @@ body {
       background: rgba(255, 255, 255, 0.8); }
 
 .tag {
-  color: black; }
+  color: #1a87ee; }
 
 h1,
 h2,
@@ -299,7 +299,10 @@ main {
   .projects {
     grid-template-columns: 1fr; }
   .bio {
-    font-size: 1rem; } }
+    font-size: 1rem; }
+  .about-info li {
+    align-items: flex-start;
+    text-align: left; } }
 
 .menu .nav-link {
   padding: 0 5px;
